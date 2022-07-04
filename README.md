@@ -20,8 +20,8 @@ To write a program to implement the the Logistic Regression Model to Predict the
 ```
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: Thamaraiselvan v
-RegisterNumber:  212221230115
+Developed by: siva
+RegisterNumber:  212220040121
 */
 ```
 ```
@@ -68,11 +68,9 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-![](img1.png)
-![](img2.png)
-![](img3.png)
-![](img4.png)
-![](img5.png)
+
+![3p](https://user-images.githubusercontent.com/104999433/177186146-d774fc6e-e84e-4724-a960-99e399790005.png)
+
 
 
 ## Result:
